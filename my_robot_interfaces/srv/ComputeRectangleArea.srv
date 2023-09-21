@@ -1,0 +1,5 @@
+# compute Rectangle Area descripction
+float64 lenth 
+float64 width
+---
+float64 area
