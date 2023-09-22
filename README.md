@@ -1,10 +1,12 @@
 # Introduction
 During the implementation of these basic projects, I gained essential experience and good coding practices. In addition to the code itself, I became familiar with numerous useful command-line tools for managing ROS2 projects, as well as for editing, debugging, and controlling running programs (ROS2 tools). I also used these tools to explore existing software, which will undoubtedly be valuable when working on pre-existing code, integration, or adding new functionalities to a smoothly running system.
 
-List of projects in this repository:
-======
+# Other projects
 - [Turtle_killer](https://github.com/Mateoswiatek/ROS2_follow_turtle_robot) - The most **complex completed** project in *ROS2*.
 - [Roulette_with_parameters](https://github.com/Mateoswiatek/ROS2_roulette_with_parameters_and_server)
+
+List of projects in this repository:
+======
 
 # Battery_with_leds
 ## Brief description
